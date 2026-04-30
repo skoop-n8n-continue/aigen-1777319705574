@@ -226,24 +226,6 @@
       },
       "value": [
         {
-          "id": "prod_gheyqo",
-          "brand": "brand_skyy_a1b2c3",
-          "name": "Dual Tank Pod Device",
-          "sub": "By Realeaf Botanicals",
-          "desc": "The Skyy Dual Tank Pod Device is engineered for the ultimate flavor fusion experience. Switch between two strains on demand with our patented dual-tank technology. Sleek, pocket-sized, and built for the modern cannabis enthusiast.",
-          "tags": "Device,Dual-Tank,Vape,Rechargeable",
-          "grad": "linear-gradient(135deg,#001520 0%,#003a5c 60%,#001520 100%)",
-          "image": "assets/products/skyy_vape_1_z5b7n6.jpg",
-          "detail_1_label": "Type",
-          "detail_1_value": "Vape Device",
-          "detail_2_label": "Capacity",
-          "detail_2_value": "2 × 0.5g",
-          "detail_3_label": "Battery",
-          "detail_3_value": "350mAh",
-          "detail_4_label": "Charge",
-          "detail_4_value": "USB-C"
-        },
-        {
           "id": "prod_srd4q4",
           "brand": "brand_skyy_a1b2c3",
           "name": "Skyy Pod — Blue Dream + Wedding Cake",
@@ -260,6 +242,24 @@
           "detail_3_value": "82%",
           "detail_4_label": "Blend",
           "detail_4_value": "Hybrid"
+        },
+        {
+          "id": "prod_gheyqo",
+          "brand": "brand_skyy_a1b2c3",
+          "name": "Dual Tank Pod Device",
+          "sub": "By Realeaf Botanicals",
+          "desc": "The Skyy Dual Tank Pod Device is engineered for the ultimate flavor fusion experience. Switch between two strains on demand with our patented dual-tank technology. Sleek, pocket-sized, and built for the modern cannabis enthusiast.",
+          "tags": "Device,Dual-Tank,Vape,Rechargeable",
+          "grad": "linear-gradient(135deg,#001520 0%,#003a5c 60%,#001520 100%)",
+          "image": "assets/products/skyy_vape_1_z5b7n6.jpg",
+          "detail_1_label": "Type",
+          "detail_1_value": "Vape Device",
+          "detail_2_label": "Capacity",
+          "detail_2_value": "2 × 0.5g",
+          "detail_3_label": "Battery",
+          "detail_3_value": "350mAh",
+          "detail_4_label": "Charge",
+          "detail_4_value": "USB-C"
         },
         {
           "id": "prod_1k3py3",
