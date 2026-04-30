@@ -110,15 +110,6 @@
       },
       "value": [
         {
-          "id": "brand_skyy_a1b2c3",
-          "name": "Skyy",
-          "tagline": "Dual Tanks. Skyy Smooth. Flavor Fusion On Demand.",
-          "desc": "Experience the perfect blend of craft cannabis and innovation with Skyy, elevating your vibe to new heights. Our dual-tank pod device delivers unmatched flavor fusion for the discerning enthusiast.",
-          "color": "#00d4ff",
-          "logoW": "assets/brands/skyy_logo_white_qp3yht.png",
-          "hero": "assets/brands/website_sky_product_promo_s6ve0d.png"
-        },
-        {
           "id": "brand_fyre_d4e5f6",
           "name": "Fyre",
           "tagline": "Pocket-Sized. Party-Ready. Fuel The Fyre.",
@@ -126,6 +117,15 @@
           "color": "#ff8c00",
           "logoW": "assets/brands/fyre_logo_white_fe2iqp.png",
           "hero": "assets/brands/website_fyre_product_promo_dok5k2.png"
+        },
+        {
+          "id": "brand_skyy_a1b2c3",
+          "name": "Skyy",
+          "tagline": "Dual Tanks. Skyy Smooth. Flavor Fusion On Demand.",
+          "desc": "Experience the perfect blend of craft cannabis and innovation with Skyy, elevating your vibe to new heights. Our dual-tank pod device delivers unmatched flavor fusion for the discerning enthusiast.",
+          "color": "#00d4ff",
+          "logoW": "assets/brands/skyy_logo_white_qp3yht.png",
+          "hero": "assets/brands/website_sky_product_promo_s6ve0d.png"
         },
         {
           "id": "brand_rayne_g7h8i9",
